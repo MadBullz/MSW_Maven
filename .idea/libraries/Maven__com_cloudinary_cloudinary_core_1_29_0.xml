@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.cloudinary:cloudinary-core:1.29.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudinary/cloudinary-core/1.29.0/cloudinary-core-1.29.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Downloads now in D/mysql-connector-java-8.0.24/mysql-connector-java-8.0.24/mysql-connector-java-8.0.24.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudinary/cloudinary-core/1.29.0/cloudinary-core-1.29.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudinary/cloudinary-core/1.29.0/cloudinary-core-1.29.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

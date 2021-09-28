@@ -1,0 +1,5 @@
+dal\AccountDAO.class
+dal\UserDAO.class
+dal\SongDAO.class
+model\Account.class
+model\User.class
